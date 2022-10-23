@@ -18,3 +18,9 @@ Learning GoLang and documenting my progress for 30 days
 
     Create a module and call it from another program.
     Includes overwrides of version and path of the imported module.
+
+## Day 03
+
+### Reverse
+
+    Challenge against my son to write a program to output a string in reverse order.
