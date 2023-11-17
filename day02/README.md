@@ -8,7 +8,7 @@ Include an external package and call a function.
    `go mod tidy`
 
 2. Structuring a function splits the defintion line into the following parts:  
-   e.g. `func HellO(name string) string`
+   e.g. `func Hello(name string) string`
 
    - func - Declares the following block to be code of a function
    - Hello - Name of the function and how the function is called from other code parts
