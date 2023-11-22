@@ -42,3 +42,9 @@ Learning GoLang and documenting my progress for 30 days
 ### HelloYou
 
     Hello World/User program with tests. Which was refactored to use a helper function and support various languages.
+
+## Day 06
+
+### Integers
+
+    Writing tests for functions that add and subtract integers.
