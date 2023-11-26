@@ -48,3 +48,13 @@ Learning GoLang and documenting my progress for 30 days
 ### Integers
 
     Writing tests for functions that add and subtract integers.
+
+## Day 07
+
+### Iteration
+
+    Writing tests for functions including iterations.
+
+### Replace
+
+    Using an existing function to deepening my understanding of how to use Go with testing, benchmarking and documentation.
