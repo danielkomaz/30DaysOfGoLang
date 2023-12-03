@@ -58,3 +58,9 @@ Learning GoLang and documenting my progress for 30 days
 ### Replace
 
     Using an existing function to deepening my understanding of how to use Go with testing, benchmarking and documentation.
+
+## Day 08
+
+### Arrays and Slices
+
+    Learning about arrays and slices in Go.
